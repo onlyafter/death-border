@@ -1,0 +1,6 @@
+configuration:
+  default-border-size: 10
+
+messages:
+  border-size-change: "§aOba! A borda aumentou de tamanho...!"
+  border-reset: "§cVocê morreu e a borda foi resetada... F!"
